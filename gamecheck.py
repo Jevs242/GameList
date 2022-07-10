@@ -19,17 +19,20 @@ def metacritic():
     cNameConsole = [ "PlayStation 5" , "PlayStation 4" , "Xbox Series X", "Xbox One" , "Nintendo Switch" , "PC" , "IOS" , "Stadia"]
     clear()
 
-    filter = int(input("Which filter you want to use \n1.New Releases\n2.Coming Soon\n3.All Releases \nAnswer(Number) : "))
+    if console != 7:
+        filter = int(input("Which filter you want to use \n1.New Releases\n2.Coming Soon\n3.All Releases \nAnswer(Number) : "))
+    else:
+        filter = 3
+
     nameFilter = ["new-releases" , "coming-soon" , "available"]
     clear()
-
     sort = int(input("Which sort you want to use \n1.By Date\n2.By Name\nAnswer(Number) : "))
     nameSort = ["date" , "name"]
     clear()
 
     #Website
-    if console == 6:
-        driver.get("https://www.metacritic.com/browse/games/release-date/" + nameFilter[filter-1] + "/" + nameConsole[console-1] + "/" + nameSort[sort-1] +"?view=condensed")
+    if console == 6 or console == 7:
+            driver.get("https://www.metacritic.com/browse/games/release-date/" + nameFilter[filter-1] + "/" + nameConsole[console-1] + "/" + nameSort[sort-1] +"?view=condensed")
     else:
         driver.get("https://www.metacritic.com/browse/games/release-date/" + nameFilter[filter-1] + "/" + nameConsole[console-1] + "/" + nameSort[sort-1] +"?view=detailed")
 
