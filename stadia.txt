@@ -1,813 +1,813 @@
 -----------------------------------------------------------------------------------
 
-IOS Games
+Stadia Games
 
 -----------------------------------------------------------------------------------
 
-Local time: Sun Jul 10 01:35:47 2022
+Local time: Sun Jul 10 01:35:15 2022
 All Releases
-iOS
+Stadia
 Sort: By Date
 Detailed List View Condensed List View
 
 -----------------------------------------------------------------------------------
 
 
-Dicey Dungeons
-Platform: iOS
-July 7, 2022
+Centipede: Recharged
+Platform: Stadia
+July 1, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Air Twister
-Platform: iOS
-June 24, 2022
-
-
------------------------------------------------------------------------------------
-
-70
-Disney Mirrorverse
-Platform: iOS
-June 23, 2022
+Roguebook
+Platform: Stadia
+July 1, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Paragon Pioneers
-Platform: iOS
-June 23, 2022
+Rabbids: Party of Legends
+Platform: Stadia
+June 30, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Hero Emblems II
-Platform: iOS
-June 23, 2022
+Outriders Worldslayer
+Platform: Stadia
+June 28, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Cooking Mama: Cuisine!
-Platform: iOS
-June 17, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Lifeline: Beside You in Time
-Platform: iOS
+Zorro: The Chronicles
+Platform: Stadia
 June 16, 2022
 
 
 -----------------------------------------------------------------------------------
 
-89
-NETFLIX Poinpy
-Platform: iOS
-June 8, 2022
+
+The Elder Scrolls Online: High Isle
+Platform: Stadia
+June 6, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Frogger and the Rumbling Ruins
-Platform: iOS
-June 3, 2022
-
-
------------------------------------------------------------------------------------
-
-69
-Diablo Immortal
-Platform: iOS
-June 2, 2022
+Deliver Us The Moon
+Platform: Stadia
+June 1, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Dragon Quest Builders
-Platform: iOS
-May 26, 2022
+Through the Darkest of Times
+Platform: Stadia
+June 1, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-T3 Arena
-Platform: iOS
-May 26, 2022
+Lake
+Platform: Stadia
+June 1, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Ni no Kuni: Cross Worlds
-Platform: iOS
-May 25, 2022
+My Little Pony: A Maretime Bay Adventure
+Platform: Stadia
+May 27, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Voodoo Detective
-Platform: iOS
-May 24, 2022
-
-
------------------------------------------------------------------------------------
-
-87
-Streets of Rage 4
-Platform: iOS
-May 24, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Warped Kart Racers
-Platform: iOS
-May 20, 2022
-
-
------------------------------------------------------------------------------------
-
-
-DYSMANTLE
-Platform: iOS
-May 19, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Gunfire Reborn
-Platform: iOS
-May 17, 2022
-
-
------------------------------------------------------------------------------------
-
-79
-Apex Legends Mobile
-Platform: iOS
+Cities: Skylines
+Platform: Stadia
 May 17, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Goat Simulator+
-Platform: iOS
-May 13, 2022
+Overcooked! All You Can Eat
+Platform: Stadia
+May 5, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-RTS Siege Up!
-Platform: iOS
-May 11, 2022
-
-
------------------------------------------------------------------------------------
-
-64
-Dislyte
-Platform: iOS
-May 10, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Badland Party
-Platform: iOS
-May 6, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Prune+
-Platform: iOS
-April 29, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Knotwords
-Platform: iOS
+THE HOUSE OF THE DEAD: Remake
+Platform: Stadia
 April 28, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Echoes of Mana
-Platform: iOS
-April 26, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Seven Mortal Sins X-TASY
-Platform: iOS
-April 25, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Moonshot - A Journey Home
-Platform: iOS
+Fast & Furious: Spy Racers Rise of SH1FT3R - Arctic Challenge
+Platform: Stadia
 April 22, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Square Valley
-Platform: iOS
+Lumote: The Mastermote Chronicles
+Platform: Stadia
 April 21, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Crux: The Great Outdoors
-Platform: iOS
-April 19, 2022
+Golf With Your Friends
+Platform: Stadia
+April 18, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Hot Lap League
-Platform: iOS
-April 10, 2022
+City Legends: The Curse of the Crimson Shadow
+Platform: Stadia
+April 17, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Gear.Club Stradale
-Platform: iOS
-April 8, 2022
-
-
------------------------------------------------------------------------------------
-
-76
-Total War: MEDIEVAL II
-Platform: iOS
-April 7, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Kombinera
-Platform: iOS
-April 7, 2022
-
-
------------------------------------------------------------------------------------
-
-82
-Sumire
-Platform: iOS
-April 6, 2022
-
-
------------------------------------------------------------------------------------
-
-
-GUNS UP! Mobile
-Platform: iOS
-March 31, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Aerial_Knight's Never Yield
-Platform: iOS
-March 30, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Alto's Adventure - Remastered
-Platform: iOS
+Adventure Time: Pirates of the Enchiridion
+Platform: Stadia
 March 25, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-A Musical Story
-Platform: iOS
+Trivial Pursuit Live!
+Platform: Stadia
+March 17, 2022
+
+
+-----------------------------------------------------------------------------------
+
+
+Trivial Pursuit Live! 2
+Platform: Stadia
+March 16, 2022
+
+
+-----------------------------------------------------------------------------------
+
+
+Mad Streets
+Platform: Stadia
+March 15, 2022
+
+
+-----------------------------------------------------------------------------------
+
+
+Dead by Daylight: Sadako Rising
+Platform: Stadia
+March 8, 2022
+
+
+-----------------------------------------------------------------------------------
+
+
+Ryan's Rescue Squad
+Platform: Stadia
 March 4, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Hitman Sniper: The Shadows
-Platform: iOS
-March 3, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Labyrinth City
-Platform: iOS
-March 3, 2022
-
-
------------------------------------------------------------------------------------
-
-69
-Puzzle Quest 3
-Platform: iOS
+Race with Ryan
+Platform: Stadia
 March 1, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Gibbon: Beyond the Trees
-Platform: iOS
-February 25, 2022
+Destiny 2: The Witch Queen
+Platform: Stadia
+February 22, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Mini Basketball
-Platform: iOS
-February 25, 2022
-
-
------------------------------------------------------------------------------------
-
-
-EDENS ZERO Pocket Galaxy
-Platform: iOS
-February 24, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Final Fantasy VI Pixel Remaster
-Platform: iOS
-February 23, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Super Auto Pets
-Platform: iOS
-February 21, 2022
-
-
------------------------------------------------------------------------------------
-
-83
-Dungeons of Dreadrock
-Platform: iOS
-February 18, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Wylde Flowers
-Platform: iOS
-February 18, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Kaiju Attack
-Platform: iOS
-February 17, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Flash Party
-Platform: iOS
-February 17, 2022
-
-
------------------------------------------------------------------------------------
-
-
-My Heroes: Dungeon Raid
-Platform: iOS
+Dynasty Warriors 9 Empires
+Platform: Stadia
 February 15, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Pocket Love!
-Platform: iOS
-February 10, 2022
+My Hero One's Justice 2
+Platform: Stadia
+February 15, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Night Skate
-Platform: iOS
-February 9, 2022
+Far Cry 6 - Joseph: Collapse
+Platform: Stadia
+February 8, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-MY HERO ULTRA IMPACT
-Platform: iOS
-February 7, 2022
+Life is Strange Remastered Collection
+Platform: Stadia
+February 1, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Encodya
-Platform: iOS
-January 31, 2022
+Trollhunters: Defenders of Arcadia
+Platform: Stadia
+January 25, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-The Office: Somehow We Manage
-Platform: iOS
-January 27, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Milo and the Magpies
-Platform: iOS
-January 26, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Nickelodeon Extreme Tennis
-Platform: iOS
-January 21, 2022
-
-
------------------------------------------------------------------------------------
-
-
-Angry Birds Journey
-Platform: iOS
+Tom Clancy's Rainbow Six Extraction
+Platform: Stadia
 January 20, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-RPG Dice: Heroes of Whitestone
-Platform: iOS
-January 18, 2022
+Humankind: Cultures of Africa
+Platform: Stadia
+January 20, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Heck Deck
-Platform: iOS
+Far Cry 6 - Pagan: Control
+Platform: Stadia
 January 11, 2022
 
 
 -----------------------------------------------------------------------------------
 
 
-Disney Melee Mania
-Platform: iOS
-December 17, 2021
-
-
------------------------------------------------------------------------------------
-
-83
-Alien: Isolation
-Platform: iOS
-December 16, 2021
+Super Animal Royale
+Platform: Stadia
+December 14, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Blast Waves
-Platform: iOS
-December 15, 2021
+Assassin's Creed III Remastered
+Platform: Stadia
+December 14, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Monster Rancher 1 & 2 DX
-Platform: iOS
+Assassin's Creed Liberation HD
+Platform: Stadia
+December 14, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Spiritfarer: Farewell Edition
+Platform: Stadia
+December 13, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Monopoly Madness
+Platform: Stadia
 December 9, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Legend of Mana Remastered
-Platform: iOS
-December 7, 2021
+Nine to Five
+Platform: Stadia
+December 8, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Hatsune Miku: COLORFUL STAGE!
-Platform: iOS
-December 7, 2021
+Chicken Police - Paint it RED!
+Platform: Stadia
+December 6, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Figure Fantasy
-Platform: iOS
+Chorus
+Platform: Stadia
+December 3, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Wreckfest
+Platform: Stadia
+December 1, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Transformers: Battlegrounds
+Platform: Stadia
+December 1, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Hunting Simulator 2
+Platform: Stadia
 November 30, 2021
 
 
 -----------------------------------------------------------------------------------
 
-86
-Rocket League Sideswipe
-Platform: iOS
-November 29, 2021
+
+Rayman Legends
+Platform: Stadia
+November 23, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-LEGO Star Wars Castaways
-Platform: iOS
-November 19, 2021
-
-
------------------------------------------------------------------------------------
-
-62
-Final Fantasy VII The First Soldier
-Platform: iOS
-November 17, 2021
+Farming Simulator 22
+Platform: Stadia
+November 22, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-PUBG: NEW STATE
-Platform: iOS
-November 11, 2021
+Far Cry 6 - Vaas: Insanity
+Platform: Stadia
+November 16, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Seven Knights 2
-Platform: iOS
+Wavetale
+Platform: Stadia
 November 10, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Final Fantasy V Pixel Remaster
-Platform: iOS
-November 10, 2021
+Assassin's Creed Valhalla: Tombs of the Fallen
+Platform: Stadia
+November 9, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Transformers: Tactical Arena
-Platform: iOS
+Fast & Furious: Spy Racers Rise of SH1FT3R
+Platform: Stadia
 November 5, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Tales of Luminaria
-Platform: iOS
+Just Dance 2022
+Platform: Stadia
 November 4, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Bloodshore
-Platform: iOS
-November 3, 2021
-
-
------------------------------------------------------------------------------------
-
-
-Moncage
-Platform: iOS
+Saints Row IV: Re-Elected
+Platform: Stadia
 November 1, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Plan B from Outer Space: A Bavarian Odyssey
-Platform: iOS
+PJ Masks: Heroes Of The Night
+Platform: Stadia
+October 29, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Riders Republic
+Platform: Stadia
 October 28, 2021
 
 
 -----------------------------------------------------------------------------------
 
-65
-Pikmin Bloom
-Platform: iOS
-October 28, 2021
 
-
------------------------------------------------------------------------------------
-
-
-SLIME - ISEKAI Memories
-Platform: iOS
-October 27, 2021
-
-
------------------------------------------------------------------------------------
-
-
-Kathy Rain: Director's Cut
-Platform: iOS
+Dragon Ball Z: Kakarot
+Platform: Stadia
 October 26, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Townscaper
-Platform: iOS
-October 20, 2021
+My Friend Peppa Pig
+Platform: Stadia
+October 22, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-NBA 2K22 Arcade Edition
-Platform: iOS
+Ben 10: Power Trip
+Platform: Stadia
+October 21, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Child of Light
+Platform: Stadia
 October 19, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-NBA NOW 22
-Platform: iOS
+Heist Simulator
+Platform: Stadia
 October 19, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Pinstripe
-Platform: iOS
-October 15, 2021
+The Jackbox Party Pack 8
+Platform: Stadia
+October 14, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Hundred Days
-Platform: iOS
-October 13, 2021
-
-
------------------------------------------------------------------------------------
-
-
-Soccer Manager 2022
-Platform: iOS
+Far Cry 6
+Platform: Stadia
 October 7, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Sky Warriors: Airplane Combat
-Platform: iOS
+Assassin's Creed Rogue Remastered
+Platform: Stadia
+October 6, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+The Falconeer: Warrior Edition
+Platform: Stadia
 October 5, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-NFL Clash
-Platform: iOS
-October 4, 2021
-
-
------------------------------------------------------------------------------------
-
-
-Thumper: Pocket Edition+
-Platform: iOS
+Mafia III: Definitive Edition
+Platform: Stadia
 October 1, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Dragon Quest: The Adventure of Dai - A Hero's Bonds
-Platform: iOS
-September 28, 2021
+FIFA 22
+Platform: Stadia
+October 1, 2021
 
 
 -----------------------------------------------------------------------------------
 
-79
-Catalyst Black: Action Shooter
-Platform: iOS
-September 27, 2021
+
+Blaze and the Monster Machines Axle City Racers
+Platform: Stadia
+October 1, 2021
 
 
 -----------------------------------------------------------------------------------
 
-71
-LEGO Star Wars Battles
-Platform: iOS
+
+The Addams Family: Mansion Mayhem
+Platform: Stadia
 September 24, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-ActRaiser Renaissance
-Platform: iOS
-September 23, 2021
+Darksiders III
+Platform: Stadia
+September 14, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Nauticrawl
-Platform: iOS
-September 23, 2021
+Merek's Market
+Platform: Stadia
+September 14, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-The Lord of the Rings: Rise to War
-Platform: iOS
-September 23, 2021
+Assassin's Creed IV: Black Flag
+Platform: Stadia
+September 14, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Pokemon UNITE
-Platform: iOS
-September 22, 2021
+Life is Strange: True Colors
+Platform: Stadia
+September 10, 2021
 
 
 -----------------------------------------------------------------------------------
 
 
-Collection of SaGa: Final Fantasy Legend
-Platform: iOS
-September 22, 2021
+Darkwood
+Platform: Stadia
+September 7, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Katamari Damacy REROLL
+Platform: Stadia
+September 7, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+ARK: Survival Evolved
+Platform: Stadia
+September 1, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Darksiders II: Deathinitive Edition
+Platform: Stadia
+September 1, 2021
+
+
+-----------------------------------------------------------------------------------
+
+83
+Young Souls
+Platform: Stadia
+August 17, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Humankind
+Platform: Stadia
+August 17, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Madden NFL 22
+Platform: Stadia
+August 17, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+DreamWorks Dragons Dawn of New Riders
+Platform: Stadia
+August 13, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Gigantosaurus: The Game
+Platform: Stadia
+August 13, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Ice Age: Scrat's Nutty Adventure
+Platform: Stadia
+August 13, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+PAW Patrol Mighty Pups Save Adventure Bay
+Platform: Stadia
+August 13, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+PAW Patrol The Movie: Adventure City Calls
+Platform: Stadia
+August 13, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Foreclosed
+Platform: Stadia
+August 12, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Zombie Army 4: Dead War - Return to Hell
+Platform: Stadia
+August 3, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+GRIME
+Platform: Stadia
+August 2, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Control: Ultimate Edition
+Platform: Stadia
+July 27, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+One Piece: World Seeker
+Platform: Stadia
+July 22, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Cris Tales
+Platform: Stadia
+July 20, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Streets of Rage 4
+Platform: Stadia
+July 15, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Ys IX: Monstrum Nox
+Platform: Stadia
+July 6, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Bloodstained: Ritual of the Night
+Platform: Stadia
+July 6, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Moonlighter
+Platform: Stadia
+July 1, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Tom Clancy's Rainbow Six Siege
+Platform: Stadia
+June 30, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Hello Engineer
+Platform: Stadia
+June 22, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Olympic Games Tokyo 2020: The Official Video Game
+Platform: Stadia
+June 22, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Dead by Daylight: Resident Evil
+Platform: Stadia
+June 15, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+The Last Kids on Earth and the Staff of Doom
+Platform: Stadia
+June 4, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+Uno: 50th Anniversary
+Platform: Stadia
+June 3, 2021
+
+
+-----------------------------------------------------------------------------------
+
+
+The Elder Scrolls Online: Blackwood
+Platform: Stadia
+June 1, 2021
 
 
 -----------------------------------------------------------------------------------

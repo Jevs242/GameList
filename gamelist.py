@@ -14,24 +14,40 @@ def metacritic():
     #Chrome driver and set the hide option
     driver = webdriver.Chrome(executable_path="chromedriver", chrome_options=chrome_options)
 
-    console = int(input("Which console is of your interest? \n1.PS5 \n2.PS4 \n3.Xbox Series X \n4.Xbox One\n5.Switch\n6.PC\n7.IOS\n8.Stadia \nAnswer(Number) : "))
+    console = 0
+    filter = 0
+    sort = 0
+
     nameConsole = [ "ps5" , "ps4" , "xbox-series-x", "xboxone" , "switch" , "pc" , "ios" , "stadia"]
     cNameConsole = [ "PlayStation 5" , "PlayStation 4" , "Xbox Series X", "Xbox One" , "Nintendo Switch" , "PC" , "IOS" , "Stadia"]
-    clear()
-
-    if console != 7:
-        filter = int(input("Which filter you want to use \n1.New Releases\n2.Coming Soon\n3.All Releases \nAnswer(Number) : "))
-    else:
-        filter = 3
-
     nameFilter = ["new-releases" , "coming-soon" , "available"]
-    clear()
-    sort = int(input("Which sort you want to use \n1.By Date\n2.By Name\nAnswer(Number) : "))
     nameSort = ["date" , "name"]
-    clear()
+
+    while(True):
+        console = int(input("Which console is of your interest? \n1.PS5 \n2.PS4 \n3.Xbox Series X \n4.Xbox One\n5.Switch\n6.PC\n7.IOS\n8.Stadia \nAnswer(Number) : "))
+
+        clear()
+        if console <= 8 and console > 0:
+            break
+        
+    while(True):
+        if console < 7:
+            filter = int(input("Which filter you want to use \n1.New Releases\n2.Coming Soon\n3.All Releases \nAnswer(Number) : "))
+        else:
+            filter = 3
+        clear()
+        if filter <= 3 and filter > 0:
+            break
+        
+    while(True):
+        sort = int(input("Which sort you want to use \n1.By Date\n2.By Name\nAnswer(Number) : "))
+        
+        clear()
+        if sort <= 2 and sort > 0:
+            break
 
     #Website
-    if console == 6 or console == 7:
+    if console == 6 or console == 7 or console == 8:
             driver.get("https://www.metacritic.com/browse/games/release-date/" + nameFilter[filter-1] + "/" + nameConsole[console-1] + "/" + nameSort[sort-1] +"?view=condensed")
     else:
         driver.get("https://www.metacritic.com/browse/games/release-date/" + nameFilter[filter-1] + "/" + nameConsole[console-1] + "/" + nameSort[sort-1] +"?view=detailed")
