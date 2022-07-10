@@ -80,9 +80,9 @@ def addSpace(result):
         if char == "\n":
             i += 1
             #Each 5 Enter put a symbol
-            if char == 5:
-                char = 0
-                char = " | "
+            if i == 5:
+                i = 0
+                char = " | " 
         new_result += char
     return new_result
     
