@@ -23,12 +23,15 @@ def metacritic():
     nameFilter = ["new-releases" , "coming-soon" , "available"]
     clear()
 
-    sort = int(input("Which sort you want to use \n1.By Date\n2.By Metascore\n3.By Name\nAnswer(Number) : "))
-    nameSort = ["date" , "metascore" , "name" , "userscore"]
+    sort = int(input("Which sort you want to use \n1.By Date\n2.By Name\nAnswer(Number) : "))
+    nameSort = ["date" , "name"]
     clear()
 
     #Website
-    driver.get("https://www.metacritic.com/browse/games/release-date/" + nameFilter[filter-1] + "/" + nameConsole[console-1] + "/" + nameSort[sort-1] +"?view=detailed")
+    if console == 6:
+        driver.get("https://www.metacritic.com/browse/games/release-date/" + nameFilter[filter-1] + "/" + nameConsole[console-1] + "/" + nameSort[sort-1] +"?view=condensed")
+    else:
+        driver.get("https://www.metacritic.com/browse/games/release-date/" + nameFilter[filter-1] + "/" + nameConsole[console-1] + "/" + nameSort[sort-1] +"?view=detailed")
 
     time.sleep(1)
 
@@ -48,12 +51,16 @@ def metacritic():
     #This changes the symbol I used in the previous function to "-------------"
     new_result = new_result.replace(" | " , space)
 
+    #This deletes "tbd"
+    new_result = new_result.replace("tbd" , "")
+    new_result = new_result.replace("Expand" , "")
+
     new_result = space2 + cNameConsole[console-1] + " " + "Games" + space3 + logTime() + new_result
 
     #This open a file 
     with open(nameConsole[console-1] + ".txt", "w", encoding="utf-8") as file:
         file.write(new_result)
-        print("You may see your .txt")
+        print("You may see your " + cNameConsole[console-1] + ".txt")
 
     time.sleep(10)
     #Close Chrome
