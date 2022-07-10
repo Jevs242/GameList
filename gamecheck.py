@@ -53,7 +53,7 @@ def metacritic():
     #This open a file 
     with open(nameConsole[console-1] + ".txt", "w", encoding="utf-8") as file:
         file.write(new_result)
-        print("You may view your .txt")
+        print("You may see your .txt")
 
     time.sleep(10)
     #Close Chrome
