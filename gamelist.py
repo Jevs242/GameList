@@ -76,12 +76,8 @@ def metacritic():
 
     new_result = space2 + cNameConsole[console-1] + " " + "Games" + space3 + logTime() + new_result
 
-
-    main_path = os.path.dirname(__file__)
-    file_path = os.path.join(main_path, 'data\\' + nameConsole[console-1] + '.txt')
-
     #This open a file 
-    with open(file_path, "w", encoding="utf-8") as file:
+    with open( nameConsole[console-1] + '.txt', "w", encoding="utf-8") as file:
         file.write(new_result)
         print("You may see your " + cNameConsole[console-1] + ".txt")
 
